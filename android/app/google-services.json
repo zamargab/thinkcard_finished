@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613697876672",
+    "project_id": "think-484a8",
+    "storage_bucket": "think-484a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613697876672:android:5951f25b7f43755c14b325",
+        "android_client_info": {
+          "package_name": "com.example.think"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613697876672-jff5e5822s7spvfto4tsoaoaf5epv7u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_Nl6xBhLrfa1IioxpfnRxSi2ypkmVAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613697876672-jff5e5822s7spvfto4tsoaoaf5epv7u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
